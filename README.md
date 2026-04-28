@@ -18,7 +18,8 @@ I'm a Platform Network Engineer with 10+ years designing, building, operating, a
 **Microsoft Azure**
 - Azure Virtual WAN, Virtual Network, Hub-Spoke, Private Endpoints, NAT Gateways
 - Azure Front Door, Traffic Manager, Application Gateway, Load Balancer, Azure DNS
-- Bicep, Azure CLI
+- Azure Firewall, Web Application Firewall (WAF)
+- Azure CLI
   
 **Cisco**
 - Routing & Switching
@@ -34,6 +35,12 @@ I'm a Platform Network Engineer with 10+ years designing, building, operating, a
 - Network segmentation and zero trust enforcement
 - GlobalProtect VPN for secure remote access
 - IPSec site-to-site VPN connectivity
+
+**IaC & DevOps**
+- Bicep — infrastructure as code for Azure network deployments
+- Azure CLI & Bash — scripting and automation of Azure resources
+- Git & GitHub — version control and portfolio management
+- Currently exploring: Terraform, GitHub Actions, Ansible
 
 ---
 
