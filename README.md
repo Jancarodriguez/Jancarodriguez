@@ -22,6 +22,14 @@ Platform Network Engineer with 10+ years designing, building, operating, and sec
 
 ---
 
+## 🚀 Currently Working On
+
+- Deepening my IaC skills with Bicep and Terraform
+- Building a public portfolio of real-world network automation projects
+- Pursuing AZ-104 and Arista certification
+  
+---
+
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
