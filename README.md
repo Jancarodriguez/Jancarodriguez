@@ -7,18 +7,33 @@ I'm a platform Network Engineer with 10+ years designing, building, operating, a
 
 ## 💻 What I Do
 
-- Design and operate WAN, SD-WAN, and data center environments that keep businesses connected
+- Design and operate WAN, SD-WAN, and Data Center fabrics that keep businesses connected
 - Build and deploy Azure cloud networking solutions that bridge on-prem and cloud infrastructure
 - Secure enterprise networks with Palo Alto Next-Generation Firewalls and Zero Trust principles
 - Apply IaC and automation to make network deployments repeatable and scalable
 
 ---
 
-## 🔧 My Background
+## 🛠 What I Work With
+**Microsoft Azure**
+- Azure Virtual WAN, Virtual Network, Hub-Spoke, Private Endpoints, NAT Gateways
+- Azure Front Door, Traffic Manager, Application Gateway, Load Balancer, Azure DNS
+- Bicep, Azure CLI
+  
+**Cisco**
+- Routing & Switching
+- Layer 3 Technologies: BGP, OSPF, EIGRP
+- Layer 2 Technologies: VLAN, Trunking, RSTP, vPC
+- Storage Switching (MDS)
+- Unified Compute: Blade Servers, Chassis Management, Fabric Interconnects
+- Meraki — cloud-managed switching, wireless, and SD-WAN
+- Umbrella, Secure Access, and Zero Trust Network Access (ZTNA)
 
-- Enterprise network engineer across WAN, SD-WAN, and data center environments
-- Hands-on with Cisco Nexus, Cisco UCS, Cisco MDS, Palo Alto Firewalls, and Azure networking
-- Focused on routing, switching, security, and cloud networking
+**Palo Alto**
+- Firewall policy design and rule management
+- Network segmentation and zero trust enforcement
+- GlobalProtect VPN for secure remote access
+- IPSec site-to-site VPN connectivity
 
 ---
 
@@ -26,7 +41,6 @@ I'm a platform Network Engineer with 10+ years designing, building, operating, a
 
 - Deepening my IaC skills with Bicep and Terraform
 - Building a public portfolio of real-world network automation projects
-- Pursuing AZ-104 and Arista certification
   
 ---
 
