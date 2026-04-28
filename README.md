@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jean Carlos
 
-I'm a platform Network Engineer with 10+ years designing, building, operating, and securing enterprise networks — now focused on Azure cloud networking, IaC, and automation. Based in Florida, United States, helping teams build networks that scale.
+I'm a Platform Network Engineer with 10+ years designing, building, operating, and securing enterprise networks — now focused on Azure cloud networking, IaC, and automation. Based in Florida, United States, helping teams build networks that scale.
 
 
 ---
