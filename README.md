@@ -29,7 +29,7 @@ I'm a Platform Network Engineer with 10+ years designing, building, operating, a
 - Meraki — cloud-managed switching, wireless, and SD-WAN
 - Umbrella, Secure Access, and Zero Trust Network Access (ZTNA)
 
-**Palo Alto**
+**Palo Alto Networks**
 - Firewall policy design and rule management
 - Network segmentation and zero trust enforcement
 - GlobalProtect VPN for secure remote access
